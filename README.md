@@ -1,1 +1,1 @@
-# Mrs Gupta ComputerScience @ Brunswick School 
+# Mrs Gupta Computer Science @ Brunswick School 
