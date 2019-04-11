@@ -1,2 +1,2 @@
 # Mrs Gupta Computer Science @ Brunswick School 
-![wick](brunswicklogo.jpg)
+![wick](Brunswick_Logo.png)
